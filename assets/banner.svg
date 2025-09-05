@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+  <rect width="100%" height="100%" fill="#0f172a"/>
+  <text x="50%" y="50%" font-size="40" font-family="monospace" fill="#38bdf8" text-anchor="middle" dominant-baseline="middle">
+    📡 RF-Sensing Project
+  </text>
+  <text x="50%" y="75%" font-size="18" font-family="monospace" fill="#facc15" text-anchor="middle" dominant-baseline="middle">
+    From an Idea💡 to Palmable Device Roadmap 🗺️
+  </text>
+</svg>

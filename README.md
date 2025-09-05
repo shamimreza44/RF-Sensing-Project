@@ -5,10 +5,7 @@
 
 # 📡 RF-Sensing Project Roadmap
 
-![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)  
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)  
-![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange?logo=pytorch)  
-![License](https://img.shields.io/badge/License-MIT-green)  
+![GitHub](https://img.shields.io/badge/Platform-GitHub-black?logo=github)  ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)  ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange?logo=pytorch)  ![License](https://img.shields.io/badge/License-MIT-green)  
 
 ---
 

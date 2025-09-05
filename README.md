@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 Introduction
-Fantastic — I’ll give you a single, **actionable step-by-step roadmap** that takes someone with *no background* to the point where they can build, compress, and prototype a palmable RF → pose device (the evolved “DensePose-from-RF” appliance we’ve been discussing). I’ll keep it practical, low-cost/zero-budget friendly, and split into short learning sprints + concrete projects and deliverables. Follow it in order; treat each small project as a checkpoint.
+This is a single, **actionable step-by-step roadmap** that takes someone with *no background* to the point where they can build, compress, and prototype a palmable RF-Sensing device. I’ll keep it practical, low-cost/zero-budget friendly, and split into short learning sprints + concrete projects and deliverables. Follow it in order; treat each small project as a checkpoint.
 
 ---
 
